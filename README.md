@@ -2,6 +2,9 @@
 
 **Type-O-Meter** is a sleek and interactive speed typing test designed to help users measure and improve their typing speed. It features multiple difficulty levels and time settings, providing a fun and challenging experience for all skill levels.
 
+## 🌍 Live Demo
+🔗 **Try it now on Vercel**: [Type-O-Meter](https://type-o-meter.vercel.app/)
+
 ## 🚀 Features
 - 🕒 **Custom Time Limits**: Choose between 30s and 60s typing challenges.
 - 🎯 **Difficulty Modes**: Switch between **Beginner** and **Pro** word sets.
