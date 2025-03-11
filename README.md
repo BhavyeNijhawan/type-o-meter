@@ -21,7 +21,7 @@
 ## 🛠️ Installation & Setup
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/Type-O-Meter.git
+   git clone https://github.com/BhavyeNijhawan/type-o-meter
    cd Type-O-Meter
    ```
 2. **Run the project**  
